@@ -20,5 +20,3 @@ for i in range(len(key)):
         res.append(alph[(to_shift + shift) % len(alph)])
         
 print("".join(res))
-    
-    
