@@ -1,3 +1,8 @@
+"""
+Tyler Huffman
+2020-08-23
+https://open.kattis.com/problems/pot
+"""
 from sys import stdin
 
 total = 0
