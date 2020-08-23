@@ -7,7 +7,6 @@ https://open.kattis.com/problems/bokforing
 #include <string>
 #include <map>
 
-
 int main(){
 
 	int people, events, value, eventID;
@@ -22,7 +21,6 @@ int main(){
 	eventIDs["SET"] = 1;
 	eventIDs["PRINT"] = 2;
 	eventIDs["RESTART"] = 3;
-	
 	
 	while(events--){
 		std::cin >> eventName;
